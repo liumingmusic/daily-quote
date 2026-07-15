@@ -1,0 +1,17 @@
+{
+  "updatedAt": "2026-07-15T15:40:03.226Z",
+  "count": 1,
+  "snapshots": [
+    {
+      "date": "2026-07-15",
+      "file": "data/snapshots/2026-07-15.json",
+      "quote": {
+        "text": "认识你自己。",
+        "from": "德尔斐神谕",
+        "author": "苏格拉底",
+        "type": "哲学",
+        "source": "local"
+      }
+    }
+  ]
+}

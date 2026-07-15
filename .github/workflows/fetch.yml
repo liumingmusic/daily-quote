@@ -1,0 +1,40 @@
+name: 每日精选抓取
+
+on:
+  schedule:
+    # 每天 UTC 22:00（约北京次日 06:00）
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 抓取今日精选
+        run: node scripts/fetch.js
+
+      - name: 提交变更（如有）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/snapshots data/manifest.json
+          if git diff --cached --quiet; then
+            echo "无变更，跳过提交"
+          else
+            git commit -m "chore: 更新今日精选快照 $(date -u +%Y-%m-%d)"
+            git push
+            echo "已推送今日精选"
+          fi
