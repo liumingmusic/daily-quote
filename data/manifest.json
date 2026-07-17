@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-16T22:51:55.760Z",
-  "count": 2,
+  "updatedAt": "2026-07-17T22:41:38.366Z",
+  "count": 3,
   "snapshots": [
+    {
+      "date": "2026-07-17",
+      "file": "data/snapshots/2026-07-17.json",
+      "quote": {
+        "text": "想当年，金戈铁马，气吞万里如虎。",
+        "from": "永遇乐·京口北固亭怀古",
+        "author": "辛弃疾",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-07-16",
       "file": "data/snapshots/2026-07-16.json",
