@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-17T22:41:38.366Z",
-  "count": 3,
+  "updatedAt": "2026-07-18T22:41:46.280Z",
+  "count": 4,
   "snapshots": [
+    {
+      "date": "2026-07-18",
+      "file": "data/snapshots/2026-07-18.json",
+      "quote": {
+        "text": "我今虽永逝，一语贻后贤；天国祚虽斩，复生待他年。",
+        "from": "绝命诗",
+        "author": "洪仁玕",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-07-17",
       "file": "data/snapshots/2026-07-17.json",
