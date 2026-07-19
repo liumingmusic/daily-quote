@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-18T22:41:46.280Z",
-  "count": 4,
+  "updatedAt": "2026-07-19T22:43:46.594Z",
+  "count": 5,
   "snapshots": [
+    {
+      "date": "2026-07-19",
+      "file": "data/snapshots/2026-07-19.json",
+      "quote": {
+        "text": "诗万首，酒千觞，几曾着眼看侯王？",
+        "from": "鹧鸪天·西都作",
+        "author": "朱敦儒",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-07-18",
       "file": "data/snapshots/2026-07-18.json",
