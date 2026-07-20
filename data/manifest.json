@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-19T22:43:46.594Z",
-  "count": 5,
+  "updatedAt": "2026-07-20T22:52:30.963Z",
+  "count": 6,
   "snapshots": [
+    {
+      "date": "2026-07-20",
+      "file": "data/snapshots/2026-07-20.json",
+      "quote": {
+        "text": "人到情多情转薄，而今真个不多情。",
+        "from": "山花子·风絮飘残已化萍",
+        "author": "纳兰性德",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-07-19",
       "file": "data/snapshots/2026-07-19.json",
