@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-23T22:50:24.647Z",
-  "count": 9,
+  "updatedAt": "2026-07-24T22:55:58.303Z",
+  "count": 10,
   "snapshots": [
+    {
+      "date": "2026-07-24",
+      "file": "data/snapshots/2026-07-24.json",
+      "quote": {
+        "text": "换我心，为你心，始知相忆深。",
+        "from": "诉衷情·永夜抛人何处去",
+        "author": "顾夐",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-07-23",
       "file": "data/snapshots/2026-07-23.json",
