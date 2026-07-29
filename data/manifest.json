@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-28T22:53:39.561Z",
-  "count": 14,
+  "updatedAt": "2026-07-29T22:55:11.109Z",
+  "count": 15,
   "snapshots": [
+    {
+      "date": "2026-07-29",
+      "file": "data/snapshots/2026-07-29.json",
+      "quote": {
+        "text": "今天你最后遇见的那个人有在微笑吗？",
+        "from": "幸运星",
+        "author": "",
+        "type": "动画",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-07-28",
       "file": "data/snapshots/2026-07-28.json",
