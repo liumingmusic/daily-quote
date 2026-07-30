@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-29T22:55:11.109Z",
-  "count": 15,
+  "updatedAt": "2026-07-30T22:58:34.401Z",
+  "count": 16,
   "snapshots": [
+    {
+      "date": "2026-07-30",
+      "file": "data/snapshots/2026-07-30.json",
+      "quote": {
+        "text": "山远天高烟水寒，相思枫叶丹。",
+        "from": "长相思·一重山",
+        "author": "李煜",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-07-29",
       "file": "data/snapshots/2026-07-29.json",
