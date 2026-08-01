@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-31T22:54:12.148Z",
-  "count": 17,
+  "updatedAt": "2026-08-01T22:47:14.094Z",
+  "count": 18,
   "snapshots": [
+    {
+      "date": "2026-08-01",
+      "file": "data/snapshots/2026-08-01.json",
+      "quote": {
+        "text": "一举一动，都是承诺，会被另一个人看在眼里，记在心上的。",
+        "from": "悬崖上的金鱼姬",
+        "author": "",
+        "type": "动画",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-07-31",
       "file": "data/snapshots/2026-07-31.json",
