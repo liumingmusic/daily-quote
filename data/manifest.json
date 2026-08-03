@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-02T22:48:41.299Z",
-  "count": 19,
+  "updatedAt": "2026-08-03T22:55:04.252Z",
+  "count": 20,
   "snapshots": [
+    {
+      "date": "2026-08-03",
+      "file": "data/snapshots/2026-08-03.json",
+      "quote": {
+        "text": "生命中所有的绚烂，原来终究，都要用寂寞来偿还。",
+        "from": "百年孤独",
+        "author": "加夫列尔·加西亚·马尔克斯",
+        "type": "文学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-08-02",
       "file": "data/snapshots/2026-08-02.json",
