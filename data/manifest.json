@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-03T22:55:04.252Z",
-  "count": 20,
+  "updatedAt": "2026-08-04T22:55:52.387Z",
+  "count": 21,
   "snapshots": [
+    {
+      "date": "2026-08-04",
+      "file": "data/snapshots/2026-08-04.json",
+      "quote": {
+        "text": "报复的本质只是增加了邪恶。因剑得到的亦将因剑失去。",
+        "from": "甘地",
+        "author": "甘地",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-08-03",
       "file": "data/snapshots/2026-08-03.json",
