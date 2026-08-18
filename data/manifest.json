@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-17T22:16:34.112Z",
-  "count": 33,
+  "updatedAt": "2026-08-18T22:15:12.692Z",
+  "count": 34,
   "snapshots": [
+    {
+      "date": "2026-08-18",
+      "file": "data/snapshots/2026-08-18.json",
+      "quote": {
+        "text": "抛得开手里玩具，先懂得好好进睡。",
+        "from": "给自己的情书",
+        "author": "",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-08-17",
       "file": "data/snapshots/2026-08-17.json",
