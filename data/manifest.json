@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-20T22:19:52.169Z",
-  "count": 36,
+  "updatedAt": "2026-08-21T22:16:22.341Z",
+  "count": 37,
   "snapshots": [
+    {
+      "date": "2026-08-21",
+      "file": "data/snapshots/2026-08-21.json",
+      "quote": {
+        "text": "就在从帕伊回来的那一刻，青春已经伴着你一起离开了我。",
+        "from": "紫川",
+        "author": "老猪",
+        "type": "文学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-08-20",
       "file": "data/snapshots/2026-08-20.json",
