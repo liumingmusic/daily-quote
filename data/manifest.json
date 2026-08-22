@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-21T22:16:22.341Z",
-  "count": 37,
+  "updatedAt": "2026-08-22T22:14:23.554Z",
+  "count": 38,
   "snapshots": [
+    {
+      "date": "2026-08-22",
+      "file": "data/snapshots/2026-08-22.json",
+      "quote": {
+        "text": "一壶酒，一竿身，快活如侬有几人。",
+        "from": "渔父·浪花有意千里雪",
+        "author": "李煜",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-08-21",
       "file": "data/snapshots/2026-08-21.json",
