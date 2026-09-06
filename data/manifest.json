@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-05T23:29:27.188Z",
-  "count": 50,
+  "updatedAt": "2026-09-06T23:23:17.893Z",
+  "count": 51,
   "snapshots": [
+    {
+      "date": "2026-09-06",
+      "file": "data/snapshots/2026-09-06.json",
+      "quote": {
+        "text": "我寄愁心与明月，随风直到夜郎西。",
+        "from": "闻王昌龄左迁龙标遥有此寄",
+        "author": "李白",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-09-05",
       "file": "data/snapshots/2026-09-05.json",
