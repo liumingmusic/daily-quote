@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-11T23:45:53.322Z",
-  "count": 56,
+  "updatedAt": "2026-09-12T23:38:26.487Z",
+  "count": 57,
   "snapshots": [
+    {
+      "date": "2026-09-12",
+      "file": "data/snapshots/2026-09-12.json",
+      "quote": {
+        "text": "人生而自由，却无往不在枷锁中。",
+        "from": "社会契约论",
+        "author": "卢梭",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-09-11",
       "file": "data/snapshots/2026-09-11.json",
