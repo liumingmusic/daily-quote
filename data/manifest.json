@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-16T23:59:45.928Z",
+  "updatedAt": "2026-09-17T23:50:10.441Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-09-17",
+      "file": "data/snapshots/2026-09-17.json",
+      "quote": {
+        "text": "吵死了吵死了!",
+        "from": "逢坂大河",
+        "author": "",
+        "type": "动画",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-09-16",
       "file": "data/snapshots/2026-09-16.json",
@@ -649,17 +660,6 @@
         "author": "",
         "type": "动画",
         "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-07-15",
-      "file": "data/snapshots/2026-07-15.json",
-      "quote": {
-        "text": "认识你自己。",
-        "from": "德尔斐神谕",
-        "author": "苏格拉底",
-        "type": "哲学",
-        "source": "local"
       }
     }
   ]
