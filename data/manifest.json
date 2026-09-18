@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T23:50:10.441Z",
+  "updatedAt": "2026-09-18T23:47:30.503Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-09-18",
+      "file": "data/snapshots/2026-09-18.json",
+      "quote": {
+        "text": "友情其实和爱情一样，很多的时候，距离才可以让彼此更懂得彼此。",
+        "from": "左手倒影右手年华",
+        "author": "郭敬明",
+        "type": "文学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-09-17",
       "file": "data/snapshots/2026-09-17.json",
@@ -648,17 +659,6 @@
         "from": "永遇乐·京口北固亭怀古",
         "author": "辛弃疾",
         "type": "诗词",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-07-16",
-      "file": "data/snapshots/2026-07-16.json",
-      "quote": {
-        "text": "正因为有忘也忘不了的回忆，才会变得坚强，这就是所谓的成长吧！",
-        "from": "火影忍者",
-        "author": "",
-        "type": "动画",
         "source": "hitokoto"
       }
     }
