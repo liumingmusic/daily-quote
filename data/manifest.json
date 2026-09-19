@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-18T23:47:30.503Z",
+  "updatedAt": "2026-09-19T23:49:32.241Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-09-19",
+      "file": "data/snapshots/2026-09-19.json",
+      "quote": {
+        "text": "能哭的地方只有厕所和爸爸的怀里。",
+        "from": "Clannad",
+        "author": "汐",
+        "type": "动画",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-09-18",
       "file": "data/snapshots/2026-09-18.json",
@@ -647,17 +658,6 @@
         "text": "我今虽永逝，一语贻后贤；天国祚虽斩，复生待他年。",
         "from": "绝命诗",
         "author": "洪仁玕",
-        "type": "诗词",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-07-17",
-      "file": "data/snapshots/2026-07-17.json",
-      "quote": {
-        "text": "想当年，金戈铁马，气吞万里如虎。",
-        "from": "永遇乐·京口北固亭怀古",
-        "author": "辛弃疾",
         "type": "诗词",
         "source": "hitokoto"
       }
