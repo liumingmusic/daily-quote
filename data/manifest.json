@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-22T23:56:23.120Z",
+  "updatedAt": "2026-09-24T00:09:52.685Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-09-24",
+      "file": "data/snapshots/2026-09-24.json",
+      "quote": {
+        "text": "人的精神思想方面的优势越大，给无聊留下的空间就越小。",
+        "from": "人生的智慧",
+        "author": "叔本华",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-09-22",
       "file": "data/snapshots/2026-09-22.json",
@@ -648,17 +659,6 @@
         "from": "后汉书·耿弇传",
         "author": "",
         "type": "哲学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-07-20",
-      "file": "data/snapshots/2026-07-20.json",
-      "quote": {
-        "text": "人到情多情转薄，而今真个不多情。",
-        "from": "山花子·风絮飘残已化萍",
-        "author": "纳兰性德",
-        "type": "诗词",
         "source": "hitokoto"
       }
     }
