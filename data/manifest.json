@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-24T00:09:52.685Z",
+  "updatedAt": "2026-09-25T00:11:25.498Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-09-25",
+      "file": "data/snapshots/2026-09-25.json",
+      "quote": {
+        "text": "一年中和一生中的秋天，时光很短暂，但是更加晴朗而缺少变化。",
+        "from": "人生的智慧",
+        "author": "叔本华",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-09-24",
       "file": "data/snapshots/2026-09-24.json",
@@ -647,17 +658,6 @@
         "text": "人是悬挂在自己编织的意义之网上的动物。",
         "from": "文化的阐释",
         "author": "克利福德·格尔茨",
-        "type": "哲学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-07-21",
-      "file": "data/snapshots/2026-07-21.json",
-      "quote": {
-        "text": "有志者，事竟成。",
-        "from": "后汉书·耿弇传",
-        "author": "",
         "type": "哲学",
         "source": "hitokoto"
       }
