@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-25T00:11:25.498Z",
+  "updatedAt": "2026-09-26T00:18:45.677Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-09-26",
+      "file": "data/snapshots/2026-09-26.json",
+      "quote": {
+        "text": "只要你们不停下来，那前面就一定有我。所以啊，不要停下来……",
+        "from": "机动战士高达 铁血的奥尔芬斯",
+        "author": "奥尔加",
+        "type": "动画",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-09-25",
       "file": "data/snapshots/2026-09-25.json",
@@ -648,17 +659,6 @@
         "from": "呼啸山庄",
         "author": "",
         "type": "文学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-07-22",
-      "file": "data/snapshots/2026-07-22.json",
-      "quote": {
-        "text": "人是悬挂在自己编织的意义之网上的动物。",
-        "from": "文化的阐释",
-        "author": "克利福德·格尔茨",
-        "type": "哲学",
         "source": "hitokoto"
       }
     }
