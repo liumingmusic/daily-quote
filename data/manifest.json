@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-26T00:18:45.677Z",
+  "updatedAt": "2026-09-27T00:05:18.936Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-09-27",
+      "file": "data/snapshots/2026-09-27.json",
+      "quote": {
+        "text": "清算，终将到来。",
+        "from": "Stellaris",
+        "author": "",
+        "type": "动画",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-09-26",
       "file": "data/snapshots/2026-09-26.json",
@@ -648,17 +659,6 @@
         "from": "诉衷情·永夜抛人何处去",
         "author": "顾夐",
         "type": "诗词",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-07-23",
-      "file": "data/snapshots/2026-07-23.json",
-      "quote": {
-        "text": "当我忘了你的时候，我就忘了我自己。",
-        "from": "呼啸山庄",
-        "author": "",
-        "type": "文学",
         "source": "hitokoto"
       }
     }
