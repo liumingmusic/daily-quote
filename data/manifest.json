@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-27T00:05:18.936Z",
+  "updatedAt": "2026-09-28T00:12:45.315Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-09-28",
+      "file": "data/snapshots/2026-09-28.json",
+      "quote": {
+        "text": "Time waits for no one.",
+        "from": "穿越时空的少女",
+        "author": "",
+        "type": "动画",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-09-27",
       "file": "data/snapshots/2026-09-27.json",
@@ -647,17 +658,6 @@
         "text": "今夜不知何处宿，平沙万里绝人烟。",
         "from": "碛中作",
         "author": "岑参",
-        "type": "诗词",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-07-24",
-      "file": "data/snapshots/2026-07-24.json",
-      "quote": {
-        "text": "换我心，为你心，始知相忆深。",
-        "from": "诉衷情·永夜抛人何处去",
-        "author": "顾夐",
         "type": "诗词",
         "source": "hitokoto"
       }
