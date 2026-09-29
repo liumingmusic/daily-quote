@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-28T00:12:45.315Z",
+  "updatedAt": "2026-09-29T01:22:47.382Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-09-29",
+      "file": "data/snapshots/2026-09-29.json",
+      "quote": {
+        "text": "生活百般滋味，人生需要笑对。",
+        "from": "佚名",
+        "author": "",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-09-28",
       "file": "data/snapshots/2026-09-28.json",
@@ -647,17 +658,6 @@
         "text": "酒逢知己千杯少，话不投机半句多。",
         "from": "明贤集·七言集",
         "author": "",
-        "type": "诗词",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-07-25",
-      "file": "data/snapshots/2026-07-25.json",
-      "quote": {
-        "text": "今夜不知何处宿，平沙万里绝人烟。",
-        "from": "碛中作",
-        "author": "岑参",
         "type": "诗词",
         "source": "hitokoto"
       }
