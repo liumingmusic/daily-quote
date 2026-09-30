@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-29T01:22:47.382Z",
+  "updatedAt": "2026-09-30T00:56:24.082Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-09-30",
+      "file": "data/snapshots/2026-09-30.json",
+      "quote": {
+        "text": "舞低杨柳楼心月，歌尽桃花扇底风。",
+        "from": "鹧鸪天·彩袖殷勤捧玉钟",
+        "author": "晏几道",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-09-29",
       "file": "data/snapshots/2026-09-29.json",
@@ -648,17 +659,6 @@
         "from": "末日时在做什么？有没有空？可以来拯救吗？",
         "author": "珂朵莉·诺塔·瑟尼欧里斯",
         "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-07-26",
-      "file": "data/snapshots/2026-07-26.json",
-      "quote": {
-        "text": "酒逢知己千杯少，话不投机半句多。",
-        "from": "明贤集·七言集",
-        "author": "",
-        "type": "诗词",
         "source": "hitokoto"
       }
     }
