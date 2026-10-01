@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-30T00:56:24.082Z",
+  "updatedAt": "2026-10-01T00:58:56.678Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-01",
+      "file": "data/snapshots/2026-10-01.json",
+      "quote": {
+        "text": "将行之事，必将已行；已行之事，必将再行。",
+        "from": "圣经",
+        "author": "",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-09-30",
       "file": "data/snapshots/2026-09-30.json",
@@ -647,17 +658,6 @@
         "text": "愿有朝一日与你见面还能释放温暖拥你入怀。",
         "from": "境界的彼方",
         "author": "",
-        "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-07-27",
-      "file": "data/snapshots/2026-07-27.json",
-      "quote": {
-        "text": "最后我还想再拜托你一件事，希望你可以把我忘掉。",
-        "from": "末日时在做什么？有没有空？可以来拯救吗？",
-        "author": "珂朵莉·诺塔·瑟尼欧里斯",
         "type": "动画",
         "source": "hitokoto"
       }
