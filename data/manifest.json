@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-01T00:58:56.678Z",
+  "updatedAt": "2026-10-02T01:13:33.005Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-02",
+      "file": "data/snapshots/2026-10-02.json",
+      "quote": {
+        "text": "生如夏花之绚烂，死如秋叶之静美。",
+        "from": "飞鸟集",
+        "author": "",
+        "type": "文学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-01",
       "file": "data/snapshots/2026-10-01.json",
@@ -646,17 +657,6 @@
       "quote": {
         "text": "今天你最后遇见的那个人有在微笑吗？",
         "from": "幸运星",
-        "author": "",
-        "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-07-28",
-      "file": "data/snapshots/2026-07-28.json",
-      "quote": {
-        "text": "愿有朝一日与你见面还能释放温暖拥你入怀。",
-        "from": "境界的彼方",
         "author": "",
         "type": "动画",
         "source": "hitokoto"
