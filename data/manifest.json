@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-03T00:51:54.244Z",
+  "updatedAt": "2026-10-04T00:17:05.711Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-04",
+      "file": "data/snapshots/2026-10-04.json",
+      "quote": {
+        "text": "人生而自由，却无往不在枷锁中。",
+        "from": "社会契约论",
+        "author": "卢梭",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-03",
       "file": "data/snapshots/2026-10-03.json",
@@ -648,17 +659,6 @@
         "from": "四月是你的谎言",
         "author": "",
         "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-07-30",
-      "file": "data/snapshots/2026-07-30.json",
-      "quote": {
-        "text": "山远天高烟水寒，相思枫叶丹。",
-        "from": "长相思·一重山",
-        "author": "李煜",
-        "type": "诗词",
         "source": "hitokoto"
       }
     }
