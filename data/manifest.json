@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-04T00:17:05.711Z",
+  "updatedAt": "2026-10-05T00:21:34.573Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-05",
+      "file": "data/snapshots/2026-10-05.json",
+      "quote": {
+        "text": "我们属于大地和海洋，你们属于星空。",
+        "from": "三体",
+        "author": "章北海",
+        "type": "文学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-04",
       "file": "data/snapshots/2026-10-04.json",
@@ -646,17 +657,6 @@
       "quote": {
         "text": "一举一动，都是承诺，会被另一个人看在眼里，记在心上的。",
         "from": "悬崖上的金鱼姬",
-        "author": "",
-        "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-07-31",
-      "file": "data/snapshots/2026-07-31.json",
-      "quote": {
-        "text": "我不甘心，明明你为我做了那么多，我却什么都不能为你做。",
-        "from": "四月是你的谎言",
         "author": "",
         "type": "动画",
         "source": "hitokoto"
