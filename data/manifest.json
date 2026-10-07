@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-06T02:00:20.071Z",
+  "updatedAt": "2026-10-07T01:10:02.490Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-07",
+      "file": "data/snapshots/2026-10-07.json",
+      "quote": {
+        "text": "思君如满月，夜夜减清辉。",
+        "from": "赋得自君之出矣",
+        "author": "张九龄",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-06",
       "file": "data/snapshots/2026-10-06.json",
@@ -648,17 +659,6 @@
         "from": "百年孤独",
         "author": "加夫列尔·加西亚·马尔克斯",
         "type": "文学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-02",
-      "file": "data/snapshots/2026-08-02.json",
-      "quote": {
-        "text": "如果你不能击败你的敌人，那么就加入他们。",
-        "from": "加菲猫",
-        "author": "",
-        "type": "动画",
         "source": "hitokoto"
       }
     }
