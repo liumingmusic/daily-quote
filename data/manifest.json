@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-07T01:10:02.490Z",
+  "updatedAt": "2026-10-08T01:28:20.156Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-08",
+      "file": "data/snapshots/2026-10-08.json",
+      "quote": {
+        "text": "枝上柳绵吹又少。天涯何处无芳草。",
+        "from": "蝶恋花·春景",
+        "author": "苏轼",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-07",
       "file": "data/snapshots/2026-10-07.json",
@@ -648,17 +659,6 @@
         "from": "甘地",
         "author": "甘地",
         "type": "哲学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-03",
-      "file": "data/snapshots/2026-08-03.json",
-      "quote": {
-        "text": "生命中所有的绚烂，原来终究，都要用寂寞来偿还。",
-        "from": "百年孤独",
-        "author": "加夫列尔·加西亚·马尔克斯",
-        "type": "文学",
         "source": "hitokoto"
       }
     }
