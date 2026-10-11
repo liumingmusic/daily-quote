@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-10T01:25:39.480Z",
+  "updatedAt": "2026-10-11T00:36:46.870Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-11",
+      "file": "data/snapshots/2026-10-11.json",
+      "quote": {
+        "text": "人生当苦无妨，良人当归即好。",
+        "from": "雪中悍刀行",
+        "author": "烽火戏诸侯",
+        "type": "动画",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-10",
       "file": "data/snapshots/2026-10-10.json",
@@ -647,17 +658,6 @@
         "text": "偶尔的停顿和修整，对于人生是非常必要的。",
         "from": "随记",
         "author": "",
-        "type": "哲学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-07",
-      "file": "data/snapshots/2026-08-07.json",
-      "quote": {
-        "text": "在某种意义上说即令这世界全不存在，音乐却还存在。",
-        "from": "作为意志和表象的世界",
-        "author": "叔本华",
         "type": "哲学",
         "source": "hitokoto"
       }
