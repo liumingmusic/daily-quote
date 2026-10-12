@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-11T00:36:46.870Z",
+  "updatedAt": "2026-10-12T00:53:21.763Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-12",
+      "file": "data/snapshots/2026-10-12.json",
+      "quote": {
+        "text": "事实上，你在所有地方都死了，除去某一处小小所在（这里）。",
+        "from": "心我论",
+        "author": "侯世达",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-11",
       "file": "data/snapshots/2026-10-11.json",
@@ -648,17 +659,6 @@
         "from": "荆轲歌 / 渡易水歌",
         "author": "佚名",
         "type": "诗词",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-08",
-      "file": "data/snapshots/2026-08-08.json",
-      "quote": {
-        "text": "偶尔的停顿和修整，对于人生是非常必要的。",
-        "from": "随记",
-        "author": "",
-        "type": "哲学",
         "source": "hitokoto"
       }
     }
