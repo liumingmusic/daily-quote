@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-13T02:47:25.325Z",
+  "updatedAt": "2026-10-14T00:47:42.285Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-14",
+      "file": "data/snapshots/2026-10-14.json",
+      "quote": {
+        "text": "你一世，我一世，要久要久，不要离！",
+        "from": "田所浩二",
+        "author": "田所浩二",
+        "type": "文学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-13",
       "file": "data/snapshots/2026-10-13.json",
@@ -648,17 +659,6 @@
         "from": "左手倒影右手年华",
         "author": "郭敬明",
         "type": "文学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-10",
-      "file": "data/snapshots/2026-08-10.json",
-      "quote": {
-        "text": "自身拥有越丰富，他在别人身上所能发现得到的就越少。",
-        "from": "人类的智慧",
-        "author": "亚瑟・叔本华",
-        "type": "哲学",
         "source": "hitokoto"
       }
     }
