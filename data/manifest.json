@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-15T00:13:30.797Z",
+  "updatedAt": "2026-10-16T00:00:39.083Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-16",
+      "file": "data/snapshots/2026-10-16.json",
+      "quote": {
+        "text": "难道没被攻略的女主就要一辈子只爱恋男主孤独终老吗！",
+        "from": "键等",
+        "author": "藤林椋",
+        "type": "动画",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-15",
       "file": "data/snapshots/2026-10-15.json",
@@ -648,17 +659,6 @@
         "from": "人生的智慧",
         "author": "叔本华",
         "type": "哲学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-12",
-      "file": "data/snapshots/2026-08-12.json",
-      "quote": {
-        "text": "你指尖跃动的电光，是我此生不变的信仰，唯我超电磁炮永世长存。",
-        "from": "某科学的超电磁炮",
-        "author": "",
-        "type": "动画",
         "source": "hitokoto"
       }
     }
