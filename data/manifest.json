@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-16T00:00:39.083Z",
+  "updatedAt": "2026-10-17T00:05:30.839Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-17",
+      "file": "data/snapshots/2026-10-17.json",
+      "quote": {
+        "text": "眼睛是心灵的窗户。",
+        "from": "达芬奇",
+        "author": "",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-16",
       "file": "data/snapshots/2026-10-16.json",
@@ -648,17 +659,6 @@
         "from": "围城",
         "author": "",
         "type": "文学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-13",
-      "file": "data/snapshots/2026-08-13.json",
-      "quote": {
-        "text": "我们感到不满的原因就在于我们试图不断地提高自己的要求。",
-        "from": "人生的智慧",
-        "author": "叔本华",
-        "type": "哲学",
         "source": "hitokoto"
       }
     }
