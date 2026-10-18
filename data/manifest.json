@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-17T23:41:11.036Z",
+  "updatedAt": "2026-10-18T23:50:23.327Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-18",
+      "file": "data/snapshots/2026-10-18.json",
+      "quote": {
+        "text": "身不得，男儿列，心却比，男儿烈。",
+        "from": "满江红（小住京华）",
+        "author": "秋瑾",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-17",
       "file": "data/snapshots/2026-10-17.json",
@@ -647,17 +658,6 @@
         "text": "中国总是被他们最勇敢的人保护得很好。",
         "from": "论中国",
         "author": "基辛格 ",
-        "type": "文学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-14",
-      "file": "data/snapshots/2026-08-14.json",
-      "quote": {
-        "text": "世间哪有恋爱？压根儿是生殖冲动。",
-        "from": "围城",
-        "author": "",
         "type": "文学",
         "source": "hitokoto"
       }
