@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-18T23:50:23.327Z",
+  "updatedAt": "2026-10-20T00:51:36.857Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-20",
+      "file": "data/snapshots/2026-10-20.json",
+      "quote": {
+        "text": "有些规则是给需要规则的人准备的。",
+        "from": "佚名",
+        "author": "",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-18",
       "file": "data/snapshots/2026-10-18.json",
@@ -648,17 +659,6 @@
         "from": "飞鸟集",
         "author": "泰戈尔",
         "type": "哲学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-15",
-      "file": "data/snapshots/2026-08-15.json",
-      "quote": {
-        "text": "中国总是被他们最勇敢的人保护得很好。",
-        "from": "论中国",
-        "author": "基辛格 ",
-        "type": "文学",
         "source": "hitokoto"
       }
     }
