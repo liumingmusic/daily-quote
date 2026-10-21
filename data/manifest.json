@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-20T00:51:36.857Z",
+  "updatedAt": "2026-10-21T00:17:54.920Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-21",
+      "file": "data/snapshots/2026-10-21.json",
+      "quote": {
+        "text": "强韧，无敌，最强！玉碎，粉碎，大喝彩！",
+        "from": "海马濑人",
+        "author": "",
+        "type": "动画",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-20",
       "file": "data/snapshots/2026-10-20.json",
@@ -648,17 +659,6 @@
         "from": "判官",
         "author": "木苏里",
         "type": "文学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-16",
-      "file": "data/snapshots/2026-08-16.json",
-      "quote": {
-        "text": "我们把世界看错，反说它欺骗了我们。",
-        "from": "飞鸟集",
-        "author": "泰戈尔",
-        "type": "哲学",
         "source": "hitokoto"
       }
     }
