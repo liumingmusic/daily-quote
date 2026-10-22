@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-21T00:17:54.920Z",
+  "updatedAt": "2026-10-22T00:20:44.404Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-22",
+      "file": "data/snapshots/2026-10-22.json",
+      "quote": {
+        "text": "将盈耆欲，长好恶，则性命之情病矣。",
+        "from": "庄子·徐无鬼",
+        "author": "庄子",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-21",
       "file": "data/snapshots/2026-10-21.json",
@@ -648,17 +659,6 @@
         "from": "给自己的情书",
         "author": "",
         "type": "诗词",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-17",
-      "file": "data/snapshots/2026-08-17.json",
-      "quote": {
-        "text": "或许你已经不记得了，你其实跟离开的人好好道过别，与某个长夜。",
-        "from": "判官",
-        "author": "木苏里",
-        "type": "文学",
         "source": "hitokoto"
       }
     }
