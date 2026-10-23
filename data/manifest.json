@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-22T00:20:44.404Z",
+  "updatedAt": "2026-10-23T00:19:28.573Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-23",
+      "file": "data/snapshots/2026-10-23.json",
+      "quote": {
+        "text": "糁径杨花铺白毡，点溪荷叶叠青钱。",
+        "from": "绝句漫兴九首·其七",
+        "author": "杜甫",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-22",
       "file": "data/snapshots/2026-10-22.json",
@@ -648,17 +659,6 @@
         "from": "哈尔的移动城堡",
         "author": "宫崎骏",
         "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "file": "data/snapshots/2026-08-18.json",
-      "quote": {
-        "text": "抛得开手里玩具，先懂得好好进睡。",
-        "from": "给自己的情书",
-        "author": "",
-        "type": "诗词",
         "source": "hitokoto"
       }
     }
