@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-23T00:19:28.573Z",
+  "updatedAt": "2026-10-24T00:10:05.301Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-24",
+      "file": "data/snapshots/2026-10-24.json",
+      "quote": {
+        "text": "人类侥幸拥有了智慧，就应该善用它。",
+        "from": "意林",
+        "author": "王小波",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-23",
       "file": "data/snapshots/2026-10-23.json",
@@ -647,17 +658,6 @@
         "text": "最有名的莫过于想死一次吗。",
         "from": "阎魔爱",
         "author": "",
-        "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-19",
-      "file": "data/snapshots/2026-08-19.json",
-      "quote": {
-        "text": "哈尔那你到底有多少名字呢？——刚好够我自由地活下去。",
-        "from": "哈尔的移动城堡",
-        "author": "宫崎骏",
         "type": "动画",
         "source": "hitokoto"
       }
