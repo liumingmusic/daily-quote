@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-25T23:42:18.436Z",
+  "updatedAt": "2026-10-27T01:02:01.842Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-27",
+      "file": "data/snapshots/2026-10-27.json",
+      "quote": {
+        "text": "如果有来生，要做一棵树，站成永恒，没有悲欢的姿势。",
+        "from": "说给自己听",
+        "author": "三毛",
+        "type": "文学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-25",
       "file": "data/snapshots/2026-10-25.json",
@@ -648,17 +659,6 @@
         "from": "渔父·浪花有意千里雪",
         "author": "李煜",
         "type": "诗词",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-21",
-      "file": "data/snapshots/2026-08-21.json",
-      "quote": {
-        "text": "就在从帕伊回来的那一刻，青春已经伴着你一起离开了我。",
-        "from": "紫川",
-        "author": "老猪",
-        "type": "文学",
         "source": "hitokoto"
       }
     }
