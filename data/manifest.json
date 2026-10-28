@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-27T01:02:01.842Z",
+  "updatedAt": "2026-10-28T00:51:29.789Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-28",
+      "file": "data/snapshots/2026-10-28.json",
+      "quote": {
+        "text": "将盈耆欲，长好恶，则性命之情病矣。",
+        "from": "庄子·徐无鬼",
+        "author": "庄子",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-27",
       "file": "data/snapshots/2026-10-27.json",
@@ -648,17 +659,6 @@
         "from": "人生的智慧",
         "author": "叔本华",
         "type": "哲学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-22",
-      "file": "data/snapshots/2026-08-22.json",
-      "quote": {
-        "text": "一壶酒，一竿身，快活如侬有几人。",
-        "from": "渔父·浪花有意千里雪",
-        "author": "李煜",
-        "type": "诗词",
         "source": "hitokoto"
       }
     }
