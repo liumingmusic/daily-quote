@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-28T00:51:29.789Z",
+  "updatedAt": "2026-10-29T01:27:53.589Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-29",
+      "file": "data/snapshots/2026-10-29.json",
+      "quote": {
+        "text": "朋友啊你要明白，我们不能用温柔去应对黑暗，要用火。",
+        "from": "夜的命名术",
+        "author": "会说话的肘子",
+        "type": "文学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-28",
       "file": "data/snapshots/2026-10-28.json",
@@ -647,17 +658,6 @@
         "text": "谈恋爱我就不派电脑人去，这么好的事派它去干吗啊？",
         "from": "漫谈人工智能",
         "author": "陈嘉映",
-        "type": "哲学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-23",
-      "file": "data/snapshots/2026-08-23.json",
-      "quote": {
-        "text": "我们感到不满的原因就在于我们试图不断地提高自己的要求。",
-        "from": "人生的智慧",
-        "author": "叔本华",
         "type": "哲学",
         "source": "hitokoto"
       }
