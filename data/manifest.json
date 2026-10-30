@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-29T01:27:53.589Z",
+  "updatedAt": "2026-10-30T01:29:07.239Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-10-30",
+      "file": "data/snapshots/2026-10-30.json",
+      "quote": {
+        "text": "千万丈的大厦总要有片奠基石，最初的爱好无可替代。",
+        "from": "我的精神家园",
+        "author": "王小波",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-10-29",
       "file": "data/snapshots/2026-10-29.json",
@@ -648,17 +659,6 @@
         "from": "樱花庄的宠物女孩",
         "author": "",
         "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-24",
-      "file": "data/snapshots/2026-08-24.json",
-      "quote": {
-        "text": "谈恋爱我就不派电脑人去，这么好的事派它去干吗啊？",
-        "from": "漫谈人工智能",
-        "author": "陈嘉映",
-        "type": "哲学",
         "source": "hitokoto"
       }
     }
