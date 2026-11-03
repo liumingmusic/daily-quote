@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-02T01:09:59.472Z",
+  "updatedAt": "2026-11-03T03:14:10.195Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-03",
+      "file": "data/snapshots/2026-11-03.json",
+      "quote": {
+        "text": "世界上没有一条河不拐弯，但最终都要流向大海。",
+        "from": "好好说话",
+        "author": "",
+        "type": "文学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-02",
       "file": "data/snapshots/2026-11-02.json",
@@ -648,17 +659,6 @@
         "from": "神圣之门",
         "author": "",
         "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-08-29",
-      "file": "data/snapshots/2026-08-29.json",
-      "quote": {
-        "text": "有些规则是给需要规则的人准备的。",
-        "from": "佚名",
-        "author": "",
-        "type": "哲学",
         "source": "hitokoto"
       }
     }
