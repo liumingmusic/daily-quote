@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-04T01:47:42.250Z",
+  "updatedAt": "2026-11-05T01:55:45.339Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-05",
+      "file": "data/snapshots/2026-11-05.json",
+      "quote": {
+        "text": "如果我们能够活着回去，万水千山你愿意陪我一起看吗？",
+        "from": "狐妖小红娘",
+        "author": "庹小新",
+        "type": "动画",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-04",
       "file": "data/snapshots/2026-11-04.json",
@@ -648,17 +659,6 @@
         "from": "白熊咖啡屋",
         "author": "熊猫君",
         "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-01",
-      "file": "data/snapshots/2026-09-01.json",
-      "quote": {
-        "text": "人的一切痛苦，本质上都是对自己无能的愤怒。",
-        "from": "意林",
-        "author": "王小波",
-        "type": "哲学",
         "source": "hitokoto"
       }
     }
