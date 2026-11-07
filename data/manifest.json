@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-06T01:56:42.218Z",
+  "updatedAt": "2026-11-07T01:29:19.562Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-07",
+      "file": "data/snapshots/2026-11-07.json",
+      "quote": {
+        "text": "谎言重复一千遍就成了真理。",
+        "from": "纳粹德国宣传部长",
+        "author": "戈培尔",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-06",
       "file": "data/snapshots/2026-11-06.json",
@@ -648,17 +659,6 @@
         "from": "林清玄",
         "author": "林清玄",
         "type": "文学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-03",
-      "file": "data/snapshots/2026-09-03.json",
-      "quote": {
-        "text": "千教万教教人求真，千学万学学做真人。",
-        "from": "陶行知",
-        "author": "",
-        "type": "哲学",
         "source": "hitokoto"
       }
     }
