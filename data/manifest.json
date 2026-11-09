@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-08T00:59:10.630Z",
+  "updatedAt": "2026-11-09T01:20:24.103Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-09",
+      "file": "data/snapshots/2026-11-09.json",
+      "quote": {
+        "text": "把别人的经验变成自己的，他的本事就大了。",
+        "from": "毛主席语录",
+        "author": "毛泽东",
+        "type": "文学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-08",
       "file": "data/snapshots/2026-11-08.json",
@@ -648,17 +659,6 @@
         "from": "闻王昌龄左迁龙标遥有此寄",
         "author": "李白",
         "type": "诗词",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-05",
-      "file": "data/snapshots/2026-09-05.json",
-      "quote": {
-        "text": "时间是存在者的时间。",
-        "from": "存在与时间",
-        "author": "海德格尔",
-        "type": "哲学",
         "source": "hitokoto"
       }
     }
