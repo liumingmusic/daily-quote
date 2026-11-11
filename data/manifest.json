@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-10T03:55:26.477Z",
+  "updatedAt": "2026-11-11T01:38:17.807Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-11",
+      "file": "data/snapshots/2026-11-11.json",
+      "quote": {
+        "text": "他尸骨犹未凉，我此恨怎能偿。",
+        "from": "汉宫秋",
+        "author": "马致远",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-10",
       "file": "data/snapshots/2026-11-10.json",
@@ -647,17 +658,6 @@
         "text": "昨夜西风凋碧树，独上高楼，望尽天涯路。",
         "from": "蝶恋花·槛菊愁烟兰泣露",
         "author": "晏殊",
-        "type": "诗词",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-07",
-      "file": "data/snapshots/2026-09-07.json",
-      "quote": {
-        "text": "危楼高百尺，手可摘星辰。",
-        "from": "夜宿山寺",
-        "author": "李白",
         "type": "诗词",
         "source": "hitokoto"
       }
