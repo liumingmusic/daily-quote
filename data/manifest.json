@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-11T01:38:17.807Z",
+  "updatedAt": "2026-11-12T02:38:24.684Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-12",
+      "file": "data/snapshots/2026-11-12.json",
+      "quote": {
+        "text": "我怎么会知道，这些牡蛎产自哪个海岸呢？",
+        "from": "猎魔人Ⅴ：火之洗礼",
+        "author": "安德烈·斯帕克沃斯基",
+        "type": "文学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-11",
       "file": "data/snapshots/2026-11-11.json",
@@ -648,17 +659,6 @@
         "from": "漫谈人工智能",
         "author": "陈嘉映",
         "type": "哲学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-08",
-      "file": "data/snapshots/2026-09-08.json",
-      "quote": {
-        "text": "昨夜西风凋碧树，独上高楼，望尽天涯路。",
-        "from": "蝶恋花·槛菊愁烟兰泣露",
-        "author": "晏殊",
-        "type": "诗词",
         "source": "hitokoto"
       }
     }
