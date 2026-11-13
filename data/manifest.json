@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-12T02:38:24.684Z",
+  "updatedAt": "2026-11-13T02:18:48.380Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-13",
+      "file": "data/snapshots/2026-11-13.json",
+      "quote": {
+        "text": "运伟大之思者，必行伟大之迷途。",
+        "from": "海德格尔",
+        "author": "海德格尔",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-12",
       "file": "data/snapshots/2026-11-12.json",
@@ -647,17 +658,6 @@
         "text": "我思故我在。",
         "from": "谈谈方法",
         "author": "笛卡尔",
-        "type": "哲学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-09",
-      "file": "data/snapshots/2026-09-09.json",
-      "quote": {
-        "text": "谈恋爱我就不派电脑人去，这么好的事派它去干吗啊？",
-        "from": "漫谈人工智能",
-        "author": "陈嘉映",
         "type": "哲学",
         "source": "hitokoto"
       }
