@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-13T02:18:48.380Z",
+  "updatedAt": "2026-11-14T01:55:28.786Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-14",
+      "file": "data/snapshots/2026-11-14.json",
+      "quote": {
+        "text": "慎终如始，则无败事。",
+        "from": "道德经",
+        "author": "老子",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-13",
       "file": "data/snapshots/2026-11-13.json",
@@ -648,17 +659,6 @@
         "from": "沈园二首",
         "author": "陆游",
         "type": "诗词",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-10",
-      "file": "data/snapshots/2026-09-10.json",
-      "quote": {
-        "text": "我思故我在。",
-        "from": "谈谈方法",
-        "author": "笛卡尔",
-        "type": "哲学",
         "source": "hitokoto"
       }
     }
