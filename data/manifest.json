@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-15T01:27:56.811Z",
+  "updatedAt": "2026-11-16T01:30:07.690Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-16",
+      "file": "data/snapshots/2026-11-16.json",
+      "quote": {
+        "text": "那些听不见音乐的人认为那些跳舞的人疯了。",
+        "from": "笑：论滑稽的意义",
+        "author": "亨利·柏格森",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-15",
       "file": "data/snapshots/2026-11-15.json",
@@ -648,17 +659,6 @@
         "from": "路人女主的养成方法",
         "author": "泽村·斯潘塞·英梨梨",
         "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-12",
-      "file": "data/snapshots/2026-09-12.json",
-      "quote": {
-        "text": "人生而自由，却无往不在枷锁中。",
-        "from": "社会契约论",
-        "author": "卢梭",
-        "type": "哲学",
         "source": "hitokoto"
       }
     }
