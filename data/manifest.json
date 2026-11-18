@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-17T04:15:46.749Z",
+  "updatedAt": "2026-11-18T03:15:39.508Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-18",
+      "file": "data/snapshots/2026-11-18.json",
+      "quote": {
+        "text": "采菊东篱下，悠然见南山。",
+        "from": "饮酒·其五",
+        "author": "陶渊明",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-17",
       "file": "data/snapshots/2026-11-17.json",
@@ -648,17 +659,6 @@
         "from": "挪威的森林",
         "author": "",
         "type": "文学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-15",
-      "file": "data/snapshots/2026-09-15.json",
-      "quote": {
-        "text": "两处相思同淋雪，此生也算共白头。",
-        "from": "己亥杂诗",
-        "author": "龚自珍",
-        "type": "诗词",
         "source": "hitokoto"
       }
     }
