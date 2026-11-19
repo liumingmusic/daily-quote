@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-18T03:15:39.508Z",
+  "updatedAt": "2026-11-19T02:53:51.962Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-19",
+      "file": "data/snapshots/2026-11-19.json",
+      "quote": {
+        "text": "一个人的自身越是丰富，就越难以忍受世俗常规的安排。",
+        "from": "人生的智慧",
+        "author": "叔本华",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-18",
       "file": "data/snapshots/2026-11-18.json",
@@ -648,17 +659,6 @@
         "from": "逢坂大河",
         "author": "",
         "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-16",
-      "file": "data/snapshots/2026-09-16.json",
-      "quote": {
-        "text": "树梢间泻下的秋日阳光，在她肩部一闪一闪地跳跃着。",
-        "from": "挪威的森林",
-        "author": "",
-        "type": "文学",
         "source": "hitokoto"
       }
     }
