@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-19T02:53:51.962Z",
+  "updatedAt": "2026-11-20T02:46:22.859Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-20",
+      "file": "data/snapshots/2026-11-20.json",
+      "quote": {
+        "text": "我们终会相遇相知，在那悠远的苍穹。",
+        "from": "缘之空",
+        "author": "",
+        "type": "动画",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-19",
       "file": "data/snapshots/2026-11-19.json",
@@ -648,17 +659,6 @@
         "from": "左手倒影右手年华",
         "author": "郭敬明",
         "type": "文学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-17",
-      "file": "data/snapshots/2026-09-17.json",
-      "quote": {
-        "text": "吵死了吵死了!",
-        "from": "逢坂大河",
-        "author": "",
-        "type": "动画",
         "source": "hitokoto"
       }
     }
