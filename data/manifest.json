@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-20T02:46:22.859Z",
+  "updatedAt": "2026-11-21T02:56:34.794Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-21",
+      "file": "data/snapshots/2026-11-21.json",
+      "quote": {
+        "text": "灯把黑夜，烫了一个洞。",
+        "from": "灯",
+        "author": "姜二嫚 | 七岁",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-20",
       "file": "data/snapshots/2026-11-20.json",
@@ -648,17 +659,6 @@
         "from": "Clannad",
         "author": "汐",
         "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-18",
-      "file": "data/snapshots/2026-09-18.json",
-      "quote": {
-        "text": "友情其实和爱情一样，很多的时候，距离才可以让彼此更懂得彼此。",
-        "from": "左手倒影右手年华",
-        "author": "郭敬明",
-        "type": "文学",
         "source": "hitokoto"
       }
     }
