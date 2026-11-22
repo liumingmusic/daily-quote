@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-21T02:56:34.794Z",
+  "updatedAt": "2026-11-22T01:50:45.826Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-22",
+      "file": "data/snapshots/2026-11-22.json",
+      "quote": {
+        "text": "思君如满月，夜夜减清辉。",
+        "from": "赋得自君之出矣",
+        "author": "张九龄",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-21",
       "file": "data/snapshots/2026-11-21.json",
@@ -648,17 +659,6 @@
         "from": "鹧鸪天·一点残红欲尽时",
         "author": "周紫芝",
         "type": "诗词",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "file": "data/snapshots/2026-09-19.json",
-      "quote": {
-        "text": "能哭的地方只有厕所和爸爸的怀里。",
-        "from": "Clannad",
-        "author": "汐",
-        "type": "动画",
         "source": "hitokoto"
       }
     }
