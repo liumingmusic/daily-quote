@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-22T01:50:45.826Z",
+  "updatedAt": "2026-11-23T02:06:17.794Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-23",
+      "file": "data/snapshots/2026-11-23.json",
+      "quote": {
+        "text": "须知政权是由枪杆子中取得的。",
+        "from": "八七会议报告",
+        "author": "毛泽东",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-22",
       "file": "data/snapshots/2026-11-22.json",
@@ -648,17 +659,6 @@
         "from": "三体",
         "author": "",
         "type": "文学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-20",
-      "file": "data/snapshots/2026-09-20.json",
-      "quote": {
-        "text": "梧桐叶上三更雨，叶叶声声是别离。",
-        "from": "鹧鸪天·一点残红欲尽时",
-        "author": "周紫芝",
-        "type": "诗词",
         "source": "hitokoto"
       }
     }
