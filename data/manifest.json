@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-23T02:06:17.794Z",
+  "updatedAt": "2026-11-24T05:41:45.845Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-24",
+      "file": "data/snapshots/2026-11-24.json",
+      "quote": {
+        "text": "我相信十年后的八月，我们还能再相遇。",
+        "from": "secret base ～君がくれたもの～",
+        "author": "",
+        "type": "动画",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-23",
       "file": "data/snapshots/2026-11-23.json",
@@ -648,17 +659,6 @@
         "from": "人生的智慧",
         "author": "叔本华",
         "type": "哲学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-22",
-      "file": "data/snapshots/2026-09-22.json",
-      "quote": {
-        "text": "黑，真他妈黑啊",
-        "from": "三体",
-        "author": "",
-        "type": "文学",
         "source": "hitokoto"
       }
     }
