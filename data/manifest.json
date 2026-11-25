@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-24T05:41:45.845Z",
+  "updatedAt": "2026-11-25T04:43:35.027Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-25",
+      "file": "data/snapshots/2026-11-25.json",
+      "quote": {
+        "text": "我们是活在瞬间里的，我们是活在瞬间里的生物啊。",
+        "from": "日常",
+        "author": "",
+        "type": "动画",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-24",
       "file": "data/snapshots/2026-11-24.json",
@@ -645,17 +656,6 @@
       "file": "data/snapshots/2026-09-25.json",
       "quote": {
         "text": "一年中和一生中的秋天，时光很短暂，但是更加晴朗而缺少变化。",
-        "from": "人生的智慧",
-        "author": "叔本华",
-        "type": "哲学",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-24",
-      "file": "data/snapshots/2026-09-24.json",
-      "quote": {
-        "text": "人的精神思想方面的优势越大，给无聊留下的空间就越小。",
         "from": "人生的智慧",
         "author": "叔本华",
         "type": "哲学",
