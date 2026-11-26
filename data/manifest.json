@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-25T04:43:35.027Z",
+  "updatedAt": "2026-11-26T03:52:42.329Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-26",
+      "file": "data/snapshots/2026-11-26.json",
+      "quote": {
+        "text": "昔去雪如花，今来花似雪。",
+        "from": "别诗",
+        "author": "范云",
+        "type": "诗词",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-25",
       "file": "data/snapshots/2026-11-25.json",
@@ -648,17 +659,6 @@
         "from": "机动战士高达 铁血的奥尔芬斯",
         "author": "奥尔加",
         "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-25",
-      "file": "data/snapshots/2026-09-25.json",
-      "quote": {
-        "text": "一年中和一生中的秋天，时光很短暂，但是更加晴朗而缺少变化。",
-        "from": "人生的智慧",
-        "author": "叔本华",
-        "type": "哲学",
         "source": "hitokoto"
       }
     }
