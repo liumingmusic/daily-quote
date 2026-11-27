@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-26T03:52:42.329Z",
+  "updatedAt": "2026-11-27T03:53:29.645Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-27",
+      "file": "data/snapshots/2026-11-27.json",
+      "quote": {
+        "text": "遗忘比绝望更强有力。",
+        "from": "西方哲学",
+        "author": "叔本华",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-26",
       "file": "data/snapshots/2026-11-26.json",
@@ -647,17 +658,6 @@
         "text": "清算，终将到来。",
         "from": "Stellaris",
         "author": "",
-        "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-26",
-      "file": "data/snapshots/2026-09-26.json",
-      "quote": {
-        "text": "只要你们不停下来，那前面就一定有我。所以啊，不要停下来……",
-        "from": "机动战士高达 铁血的奥尔芬斯",
-        "author": "奥尔加",
         "type": "动画",
         "source": "hitokoto"
       }
