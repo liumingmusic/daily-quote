@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-27T03:53:29.645Z",
+  "updatedAt": "2026-11-28T03:40:08.990Z",
   "count": 60,
   "snapshots": [
+    {
+      "date": "2026-11-28",
+      "file": "data/snapshots/2026-11-28.json",
+      "quote": {
+        "text": "我们感到不满的原因就在于我们试图不断地提高自己的要求。",
+        "from": "人生的智慧",
+        "author": "叔本华",
+        "type": "哲学",
+        "source": "hitokoto"
+      }
+    },
     {
       "date": "2026-11-27",
       "file": "data/snapshots/2026-11-27.json",
@@ -646,17 +657,6 @@
       "quote": {
         "text": "Time waits for no one.",
         "from": "穿越时空的少女",
-        "author": "",
-        "type": "动画",
-        "source": "hitokoto"
-      }
-    },
-    {
-      "date": "2026-09-27",
-      "file": "data/snapshots/2026-09-27.json",
-      "quote": {
-        "text": "清算，终将到来。",
-        "from": "Stellaris",
         "author": "",
         "type": "动画",
         "source": "hitokoto"
